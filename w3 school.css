@@ -1,0 +1,484 @@
+.logo1{
+    float: left;
+    display: block;
+}
+.btn-group{
+    width: 50%;
+    float: left;
+}
+.btn-group1{
+    width: 50%;
+    float: right;
+}
+.btn-group .link1 {
+    background-color: white; 
+    border: none;
+    color: black;
+    padding: 43px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    float: left;
+    display: block;
+}
+.btn-group .link1:hover {
+    background-color: #4CAF50;
+}
+.button {
+    background-color: #04AA6D; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 27px 40px;
+    cursor: pointer;
+    float: right;
+}
+.button1 {
+    border-radius: 12px;
+}
+.btn-group1 .link2 {
+    background-color: white; 
+    border: none;
+    color: black;
+    padding: 43px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    float: right;
+}
+.btn-group1 .link2:hover {
+    background-color: #4CAF50;
+}
+.nav1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #282A35;
+    width: 92%;
+    font-size: 20px;
+    float: left;
+}
+.list {
+    float: left;
+}
+.link2 {
+    display: block;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+.link2:hover {
+    background-color: #4CAF50;
+}
+.topnav-right {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #282A35;
+    width: 8%;
+    font-size: 20px;
+    float: right;
+}
+.list1 {
+    float: right;
+}
+.link4 {
+    display: block;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+}
+.link4:hover {
+    background-color: #4CAF50;
+}
+.div1{
+    width: 0; 
+    height: 0; 
+    margin: 0; 
+    padding: 0; 
+    border: none; 
+    clear: both;
+}
+* {
+    box-sizing: border-box;
+}
+.side1 {
+    width: 15%;
+    float: left;
+    height: 3900px; 
+    overflow-y: scroll;
+    background-color:#E7E9EB;
+}
+.main1{
+    width: 84%;
+    font-size: 25px;
+    float: left;
+}
+.main2{
+    width: 85%;
+    float: left;
+    padding: 30px;
+    padding-bottom: 10px;
+    text-align: left;
+    font-size: 20px;
+}
+.aside1 {
+    float: left;
+    width: 15%;
+    padding: 12px;
+    height: 3213px;
+    border: 1px solid #f2f2f2;				
+}
+.link2 a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+.link2 a:hover {
+    background-color: #3cb371;
+    color: white;
+}
+.previous {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 22px;
+    border-radius: 8px;
+    float: left;
+}
+.next {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 22px;
+    border-radius: 8px;
+    float: right;
+}
+h1{
+    font-size: 45px;
+}
+.intro {
+    background-color: #D9EEE1;
+    width: 100%;
+    padding: 40px;
+    margin: 40px;
+    margin-left: 2px;
+    padding-top: 15px;
+    padding-bottom: 88px;
+}
+.start {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 22px;
+    border-radius: 8px;
+    float: left;
+}
+.content{
+    border-top: 1px solid #f2f2f2;
+    width: 107%;
+    margin-left: -40px;
+    padding: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.heading1{
+    font-size: 35px;
+}
+.content1{
+    height: 540px;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 6px;
+    padding-left: 37px;
+    font-size: 25px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+}
+.content2{
+    height: 370px;
+    width: 96%;
+    background-color: white;
+    border-left: 5px solid #4CAF50;
+}
+.start1 {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 22px;
+    border-radius: 8px;
+    float: left;
+}
+.content3{
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+    padding-bottom: 25px;
+}
+.template{
+    color: black;
+    font-size: 18px;
+}
+p, b{
+    font-size: 18px;
+}
+.start2 {
+    background-color: #2196F3;
+    color: white;
+    font-size: 22px;
+    border-radius: 8px;
+    float: left;
+    width: 216px;
+}
+.content4{
+    border-bottom: 1px solid #f2f2f2;
+}
+.template1{
+    color: black;
+    font-size: 18px;
+    padding: 2px;	
+}
+.content5{
+    border-bottom: 1px solid #f2f2f2;
+}	
+.w3_panel{
+    background-color: #282A35;
+    height:500px;
+    width: 1000px;
+    border-radius: 16px;
+    padding: 0 60px 50px 60px;
+    color: #FFC0C7;
+    margin-top: 45px;
+}
+.topic{
+    font-size: 50px;
+    padding: 50px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+}
+.para1{
+    font-size: 40px;
+    padding-left: 5px;
+}
+.link2 a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+}
+.link2 a:hover {
+    background-color: #3cb371;
+    color: white;
+}
+.cert {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 25px;
+    border-radius: 22px;
+    float: left;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 85px
+}
+.cert1{
+    float: right;
+    margin-top: 153px;
+}
+.content6{
+    margin-top: 130px;
+    border-bottom: 1px solid #f2f2f2;
+}
+.form1 {
+    width: 114%;
+    float: left;
+    padding: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-left: 15px;
+    font-size: 20px;
+    border-bottom: 1px solid #f2f2f2;
+    margin-top: 30px;
+}
+.link6 {
+    display: block;
+    color: white;
+    padding: 0px 16px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 6px;
+}
+.link6:hover {
+    background-color: gray;
+}
+.end1 {
+    background-color: #E7E9EB;
+    color: black;
+    font-size: 22px;
+    border-radius: 8px;
+    float: left;
+    width: 23%;
+    margin-left: 5px;
+    margin-right: 10px;
+    padding: 10px;
+}
+.end2 {
+    background-color: #E7E9EB;
+    color: black;
+    font-size: 22px;
+    border-radius: 8px;
+    float: left;
+    width: 23%;
+    margin-left: 5px;
+    margin-right: 10px;
+    padding: 10px;
+}
+.end3 {
+    background-color: #E7E9EB;
+    color: black;
+    font-size: 22px;
+    border-radius: 8px;
+    float: left;
+    width: 23%;
+    margin-left: 5px;
+    margin-right: 10px;
+    padding: 10px;
+}
+.end4 {
+    background-color: #E7E9EB;
+    color: black;
+    font-size: 22px;
+    border-radius: 8px;
+    float: right;
+    width: 23%;
+    margin-right: 34px;
+    padding: 10px;
+}
+.colormap{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+}
+.one{
+    padding-top: 280px;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+.two{
+    padding-top: 70px;
+    font-size: 20px;
+    text-align: center;
+}
+.social {
+    float: right;
+    font-size: 27px;
+}
+.media{
+    color: grey;
+}
+.social span:hover {
+    background-color: #cccccc;
+}
+h2{
+    text-align: left;
+    padding: 8px;
+    margin: 10px;
+}
+.myMenu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+}
+.myMenu li a {
+    padding: 8px;
+    padding-left: 18px;
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+.myMenu li a:hover {
+    background-color: lightgray;
+}
+.myMenu .home a:hover {
+    background-color: #4CAF50;
+}
+.tute{
+    width: 15%;
+    float: left;
+    margin-right: 8px;
+    font-size: 20px;
+    margin-left: 100px;
+    text-align: center;
+}
+.tute a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.tute a:hover {
+    color: #4CAF50;
+}
+.ref{
+    width: 15%;
+    float: left;
+    margin-left: 105px;
+    font-size: 20px;
+    text-align: center;
+}
+.ref a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.ref a:hover {
+    color: #4CAF50;
+}
+.exer{
+    width: 15%;
+    float: right;
+    font-size: 20px;
+    text-align: center;
+    margin-right: -30px;
+}
+.exer a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.exer a:hover {
+    color: #4CAF50;
+}
+.web{
+    width: 15%;
+    float: right;
+    font-size: 20px;
+    margin-right: 102px;
+    text-align: center;
+}
+.web a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+.web a:hover {
+    color: #4CAF50;
+}
+.w3_foot{
+    font-size: 16px;
+    text-align: center;
+    color: gray;
+    padding-top: 35px;
+    margin-left: 8px;
+    border-top: 1px solid #f2f2f2;
+    width: 120%;	
+}
+.logo2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
